@@ -1,6 +1,8 @@
 # Udacity-Python-Data-Structure
 Python data structure code practices on different problems.
-Practice Notes on different topics:
+******
+ Practice Notes on different topics:
+********
 1.Array
 2.Linkedlist
 3.Stack & Queue
